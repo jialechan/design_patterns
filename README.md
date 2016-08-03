@@ -26,7 +26,7 @@
 
 ## 设计模式分为三大类：
 ###创建型模式：
-工厂方法模式(Factory Method)、抽象工厂模式(Abstract Factory)、单例模式(Singleton)、建造者模式(Builder)、原型模式(Prototype)
+[工厂方法模式(Factory Method)](https://github.com/jialechan/design_patterns/blob/master/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md)、抽象工厂模式(Abstract Factory)、单例模式(Singleton)、建造者模式(Builder)、原型模式(Prototype)
 ###结构型模式：
 适配器模式(Adapter)、装饰者模式(Decorator)、代理模式(Proxy)、外观模式(Facade)、桥接模式(Bridge)、组合模式(Composite)、享元模式(Flyweight)
 ###行为型模式：
